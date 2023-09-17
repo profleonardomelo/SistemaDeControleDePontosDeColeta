@@ -1,2 +1,2 @@
 # SistemaDeControleDePontosDeColeta
-Sistema para gerenciar informações sobre pontos de coleta mais para descarte de lixo eletrônico.
+Sistema para gerenciar informações sobre pontos de coleta para descarte adequado de lixo eletrônico.
